@@ -40,9 +40,35 @@ Saved model using pickle (model.pkl)
 Built web app using Streamlit
 Created interactive UI
 
-### ⏰ 3.00PM - 8.30PM
+### ⏰ 5.00PM - 8.30PM
 
 - designed clean UI Dashboard
 - stocksense AI
 - Setup of the dashboard
 - Analysis
+
+### ⏰ 8.30.00PM - 11.30PM
+Built complete 7-step navigation system
+  - Step 1: Setup
+  - Step 2: Overview
+  - Step 3: Forecast
+  - Step 4: Inventory
+  - Step 5: Insights
+  - Step 6: Simulate
+  - Step 7: Report
+  - Added inventory intelligence metrics
+  - Safety Stock calculation
+  - Reorder Point (ROP)
+  - Economic Order Quantity (EOQ)
+  - Stock burn-down curve
+
+  Enhanced UI with custom CSS
+  - Dark theme design
+  - Animated alerts
+  - Responsive cards
+  - Custom scrollbar
+  -  Added anomaly detection
+  - Z-score calculation
+  - Outlier marking on charts
+  -  Created weekly demand pattern analysis
+  -  Added AI insights text recommendations
