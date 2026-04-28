@@ -39,3 +39,10 @@ Saved model using pickle (model.pkl)
 💻 5. Streamlit App Development
 Built web app using Streamlit
 Created interactive UI
+
+### ⏰ 3.00PM - 8.30PM
+
+- designed clean UI Dashboard
+- stocksense AI
+- Setup of the dashboard
+- Analysis
