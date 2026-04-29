@@ -874,7 +874,7 @@ elif step == 2:
 
         rows.append({
             "Week": f"Week {i+1}",
-            "Date": f"Week {i+1}",
+            "Date":(datetime.now()+timedelta(weeks=i+1)).strftime("%b %d %Y"),
             "Forecast Demand": int(p),
             "Cumulative": int(cumulative),
             "Remaining Stock": int(remaining),
