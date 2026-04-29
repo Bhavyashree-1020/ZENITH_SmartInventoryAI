@@ -76,13 +76,13 @@ Built complete 7-step navigation system
 
   🌙 Day 2 (Night Session: 12:00 AM – 6:00 AM)
 
-⏰ 12:00 AM – 2:30 AM
+### ⏰ 12:00 AM – 2:30 AM
 Fixed major Streamlit runtime errors
 Debugged Git merge conflicts in project files
 Corrected dataset preprocessing issues
 Stabilized ML pipeline execution
 
-⏰ 2:30 AM – 4:30 AM
+### ⏰ 2:30 AM – 4:30 AM
 Improved Demand Forecast module
 Fixed Plotly visualization issues
 Corrected x-axis weekly display problem
@@ -94,7 +94,7 @@ Improved risk classification system
 Tested end-to-end flow (dataset → model → UI)
 
 
-⏰ 4:30 AM – 6:00 AM
+### ⏰ 4:30 AM – 6:00 AM
 Improved demand forecasting accuracy
 Refined ML predictions
 Optimized feature handling
@@ -112,3 +112,12 @@ Improved business logic layer
 Final UI polishing
 Added alerts system for stockout warnings
 Improved chart readability and layout consistency
+
+
+### ⏰ 6.00AM - 9.00AM
+- Final touch for streamlit.py
+- Tested the model
+- modifications in streamlit.py
+- Updated final code 
+- Developed Final UI Dashbord
+- Completed with the prototye
